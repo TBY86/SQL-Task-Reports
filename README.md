@@ -8,5 +8,5 @@ Various Task Reports Showcasing A Commanding Utilization of SQL Database Opportu
    Sorry, if you are not using Apache Open Office, you will have to convert the .odt file and it may not be readablee
 4. Open your copy of the file and view the Task Report, replete with screenshots from shell and a steady stream of reminders that hot wings are delicious. Enjoy the content and give credit where it is due.
 
-***THANKS***
+***THANKS*** <br>
 Speaking of which, thank you google, coursera and MITx for ensuring my cybersec skills and understandings foundations are strong.  And a thanks to Linux and contributors goes without saying, for being opensource.
